@@ -1,10 +1,17 @@
 ## Olá, meu nome é William
 
+<div align="center">
+  <a href="https://github.com/willa7x">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willa7x&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willa7x&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 #### Hoje trabalho com integração de Sistemas
 #### Estou estudando a linguagem Swift e buscando uma vaga como desenvolvedor
 #### Cursando terceiro semestre de Análise e Desenvolvimento de Sistemas
 #### Contato: willa7x.dev@gmail.com
-#### Linkedin: https://www.linkedin.com/in/williamalessandrobatista/
+    
+  <a href="https://www.linkedin.com/in/williamalessandrobatista/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## Tenho conhecimentos em:
 
