@@ -28,9 +28,10 @@
 - I can speak, read and speak about subjects that I alrealdy study before
 
 ### Minhas experiências
-- Trabalhei aproximadamente 3 anos como QA
+- Aproximadamente 3 anos como QA
 - Report dos erros encontrados
 - Consultas em banco de dados
+- Desenvolvedor App no code 
 
 ## Por que App? Por que Swift?
 
