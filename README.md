@@ -14,15 +14,18 @@
   <a href="https://www.linkedin.com/in/williamalessandrobatista/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## Tenho conhecimentos em:
+  
+#### Linguagens        
+- Swift, Python, Java, HTML, CSS, Javascript
+  
+### Metodologia Agil
+- Kanban
 
-#### Banco de dados relacionais
+#### Banco de dados
 - SQL Postgree, Oracle
 
-#### Linguagens
-- Swift, Python, Java, HTML, CSS, Javascript
-
 #### My English level is Upper Intermediate
-- I can speak, read and talk about subjects that I alrealdy study before
+- I can speak, read and speak about subjects that I alrealdy study before
 
 ### Minhas experiências
 - Trabalhei aproximadamente 3 anos como QA
