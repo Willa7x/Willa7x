@@ -19,13 +19,13 @@
 - Swift, Python, Java, HTML, CSS, Javascript
   
 ### Metodologia Agil
-- Kanban
+- Jira, Kanban
 
 #### Banco de dados
 - SQL Postgree, Oracle
 
-#### My English level is Upper Intermediate
-- I can speak, read and speak about subjects that I alrealdy study before
+#### English
+- My English level is Upper Intermediate. I can read, write and speak about subjects that I alrealdy study before
 
 ### Minhas experiências
 - Aproximadamente 3 anos como QA
