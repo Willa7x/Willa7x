@@ -37,7 +37,7 @@
 
 Tudo começou em 2015, quando tive a oportunidade de trabalhar para uma empresa que prestava serviço de suporte para a Apple. Nela percebi como a Apple tratava seus clientes de forma diferenciada. 
 Em seguida, conheci a area de QA. Nunca tinha ouvido falar sobre. Aqui comecei fazendo testes funcionais do App do Banco Original.
-##### Mudando de empresa, continuei na area de testes funcionais do App da empresa.
-##### Desenvolvi um App no code através da plataforma appsheet e hoje esse App é usado full time na empresa por 3 pessoas em turnos de 8 horas.
-##### Então, desde 2015, com essas experiências, percebi como gosto dessa area e agora quero fazer parte do time de desenvolvimento de Apps. Colocando nos meus trabalhos toda a qualidade que a Apple pede e aplicar meus conhecimentos de QA.
-##### Após começar a pesquisar mais sobre o mercado, conheci as linguagens usadas para desenvolver Apps e decidi que iria focar na linguagem nativa da Apple, Swift.
+Mudando de empresa, continuei na area de testes funcionais do App da empresa.
+Desenvolvi um App no code através da plataforma appsheet e hoje esse App é usado full time na empresa por 3 pessoas em turnos de 8 horas.
+Então, desde 2015, com essas experiências, percebi como gosto dessa area e agora quero fazer parte do time de desenvolvimento de Apps. Colocando nos meus trabalhos toda a qualidade que a Apple pede e aplicar meus conhecimentos de QA.
+Após começar a pesquisar mais sobre o mercado, conheci as linguagens usadas para desenvolver Apps e decidi que iria focar na linguagem nativa da Apple, Swift.
