@@ -25,19 +25,19 @@
 - SQL Postgree, Oracle
 
 #### English
-- My English level is Upper Intermediate. I can read, write and speak about subjects that I alrealdy study before
+- My English level is Upper Intermediate. I can read, write and speak about subjects that I already study before
 
 #### Minhas experiências
-- Aproximadamente 3 anos como QA
-- Report dos erros encontrados
-- Consultas em banco de dados
+- Desenvolvedor iOS Swift
 - Desenvolvedor App no code 
+- 3 anos como QA
+- Análise e tratativas através de extração do Banco de Dados
 
 ## Por que App? Por que Swift?
 
-##### Tudo começou em 2015, quando tive a oportunidade de trabalhar para uma empresa que prestava serviço de suporte para a Apple. Nela percebi como a Apple tratava seus clientes de forma diferenciada. 
-##### Em seguida, conheci a area de QA. Nunca tinha ouvido falar sobre. Aqui comecei fazendo testes funcionais do App do Banco Original.
-##### Mudando de empresa, continuei na area de testes funcionais do App da empresa.
-##### Desenvolvi um App no code através da plataforma appsheet e hoje esse App é usado full time na empresa por 3 pessoas em turnos de 8 horas.
-##### Então, desde 2015, com essas experiências, percebi como gosto dessa area e agora quero fazer parte do time de desenvolvimento de Apps. Colocando nos meus trabalhos toda a qualidade que a Apple pede e aplicar meus conhecimentos de QA.
-##### Após começar a pesquisar mais sobre o mercado, conheci as linguagens usadas para desenvolver Apps e decidi que iria focar na linguagem nativa da Apple, Swift.
+##### Em 2015, tive a oportunidade de trabalhar para uma empresa que prestava serviço para a Apple. Nela percebi como a Apple tratava seus clientes de forma diferenciada. 
+##### Em 2017, conheci a area de QA. Nunca tinha ouvido falar sobre. Aqui comecei fazendo testes funcionais do App do Banco Original.
+##### Em 2019, continuei na area de testes funcionais do App da empresa.
+##### Em 2021, desenvolvi um App no code através da plataforma appsheet e hoje esse App é usado full time na empresa por 3 pessoas em turnos de 8 horas.
+##### Então, desde 2015, com essas experiências, percebi que quero fazer parte do time de desenvolvimento de Apps. Colocando nos meus trabalhos toda a qualidade que a Apple pede e aplicar meus conhecimentos de QA.
+##### Após começar a pesquisar mais sobre o mercado de desenvolvimento de App, conheci as linguagens usadas para desenvolver Apps e decidi focar na linguagem nativa da Apple, Swift.
